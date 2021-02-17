@@ -5,4 +5,5 @@
         margin-right: 48px;
         padding: 0px;
         object-fit: cover;
+        object-position: top;
     }
