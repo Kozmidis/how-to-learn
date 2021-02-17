@@ -1,0 +1,11 @@
+.header {
+    display: flex;
+    overflow: hidden;
+    height: 100vh;
+    min-height: 600px;
+    max-height: 756px;
+    background: #efefef;
+    position: relative;
+    margin: 0px;
+    z-index: 1;
+}
